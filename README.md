@@ -8,3 +8,9 @@ Pay-per-click Model, e.g. Advertiser would be charged only if their Ad is clicke
 
 ![ppc-pay-per-click](https://user-images.githubusercontent.com/12669248/47146198-31d42600-d2e9-11e8-89d5-21815790012f.png)
 
+CTR Prediction is very important component of Advertisment System.
+
+## CTR = ( # Clicks ) / ( # Impressions )
+i.e. CTR = Total Number of Clicks / Total Number of Impressions.
+
+Search Engine like Microsoft (Bing), Google use **CTR x Bid** to rank ads because it displays the ad with maximal expected revenue first.
