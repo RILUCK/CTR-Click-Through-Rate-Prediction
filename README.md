@@ -9,9 +9,13 @@ Pay-per-click Model, e.g. Advertiser would be charged only if their Ad is clicke
 CTR Prediction is very important component of Advertisment System.
 
 ## CTR = ( # Clicks ) / ( # Impressions )
-i.e. CTR = Total Number of Clicks / Total Number of Impressions. 
-Here 
+
+i.e. 
+
+CTR = Total Number of Clicks / Total Number of Impressions. 
+
 Impressions = the number of times an ad has been seen.
+
 Clicks = the number of times an ad has been clicked.
 
 
