@@ -9,7 +9,14 @@ Pay-per-click Model, e.g. Advertiser would be charged only if their Ad is clicke
 CTR Prediction is very important component of Advertisment System.
 
 ## CTR = ( # Clicks ) / ( # Impressions )
-i.e. CTR = Total Number of Clicks / Total Number of Impressions. Here Impressions means kind of Page views. Amonge so many page views users have provided how many ads clicked.
+i.e. CTR = Total Number of Clicks / Total Number of Impressions. 
+Here 
+Impressions = the number of times an ad has been seen.
+Clicks = the number of times an ad has been clicked.
+
+
+
+Amonge so many page views users have provided how many ads clicked.
 
 Search Engine like Microsoft (Bing), Google, Yahoo and Amazon, Walmart, Flipkart uses **CTR x Bid** to rank ads because it displays the ad with maximal expected revenue first.
 
