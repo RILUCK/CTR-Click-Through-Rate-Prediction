@@ -25,4 +25,4 @@ Amonge so many page views users have provided how many ads clicked.
 Search Engine like Microsoft (Bing), Google, Yahoo and Amazon, Walmart, Flipkart uses **CTR x Bid** to rank ads because it displays the ad with maximal expected revenue first.
 
 ![ppc-pay-per-click](https://user-images.githubusercontent.com/12669248/47146198-31d42600-d2e9-11e8-89d5-21815790012f.png)
-So we have Binary Classification Problem because If user click ads then +ve otherwise -ve.
+So we have Binary Classification Problem because If user click ads then +ve otherwise -ve if don't click.
