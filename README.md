@@ -3,13 +3,13 @@ Hello Data Science Fellow!!!
 ______________________________
 In this repository I'm going to explain CTR - Click Through Rate Prediction.
 # Click Through Rate CTR Prediction : 
-Online display advertising is a multibillion-dollar industry. It comes in different formats including banner ads composed of text, images, flash, and rich media such as audio and video. Advertisers or their agencies place advertisements on a variety of websites, even mobile apps across the Internet, to reach potential customers and deliver an advertising message. 
+Online display advertising is a multibillion-dollar industry. It comes in different formats including banner ads composed of text, images, flash, and rich media such as audio and video. Advertisers or their agencies place advertisements on a variety of websites, even mobile apps across the Internet, to reach potential customers and deliver an advertising message.
 
 ## An Advertising System :
 Pay-per-click Model, e.g. Advertiser would be charged only if their Ad is clicked.
 ![ctr](https://user-images.githubusercontent.com/12669248/47145897-790de700-d2e8-11e8-9e17-7db52469042a.JPG)
 
-CTR Prediction is very important component of Advertisment System.
+CTR Prediction is VERY important component of Advertisment System.
 
 ## CTR = ( # Clicks ) / ( # Impressions )
 
