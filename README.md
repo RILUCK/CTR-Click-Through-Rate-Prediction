@@ -21,8 +21,6 @@ Impressions = the number of times an ad has been seen.
 
 Clicks = the number of times an ad has been clicked.
 
-
-
 Amonge so many page views users have provided how many ads clicked.
 
 Search Engine like Microsoft (Bing), Google, Yahoo and Amazon, Walmart, Flipkart uses **CTR x Bid** to rank ads because it displays the ad with maximal expected revenue first.
