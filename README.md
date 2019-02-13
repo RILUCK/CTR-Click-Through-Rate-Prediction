@@ -11,6 +11,7 @@ Pay-per-click Model, e.g. Advertiser would be charged only if their Ad is clicke
 
 CTR Prediction is VERY important component of Advertisment System.
 
+
 ## CTR = ( # Clicks ) / ( # Impressions )
 
 i.e.
