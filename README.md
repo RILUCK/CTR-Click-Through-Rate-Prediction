@@ -15,7 +15,6 @@ CTR Prediction is VERY important component of Advertisment System.
 
 i.e.
 
-
 CTR = Total Number of Clicks / Total Number of Impressions. 
 
 
