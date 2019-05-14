@@ -17,7 +17,6 @@ i.e.
 
 CTR = Total Number of Clicks / Total Number of Impressions. 
 
-
 Impressions = the number of times an ad has been seen.
 
 Clicks = the number of times an ad has been clicked.
